@@ -11,7 +11,7 @@ This App is developed using React library and Firebase service as a storage.
 
 ```
 npm install
-npm run build
+npm start
 
 
 
