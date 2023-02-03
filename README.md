@@ -3,7 +3,9 @@
 
 ## Description
 
-Simple example of CRM App, which could be used in hotels (reception)
+An example of CRM App, which could be used in hotels (reception). 
+
+This App is developed using React library and Firebase service as a storage.
 
 ## Project setup
 
